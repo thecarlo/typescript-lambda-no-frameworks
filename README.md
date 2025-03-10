@@ -2,7 +2,7 @@
 
 ## Intro
 
-This is the repo for the blog post at <https://www.humankode.com/aws/aws-lambda-setup-from-scratch-typescript-without-any-frameworks>
+This is the repo for the blog post at <https://www.humankode.com/aws/aws-lambda-setup-from-scratch-typescript-without-any-frameworks/>
 
 ### Instructions
 
